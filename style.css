@@ -1,0 +1,58 @@
+.book_page{
+            
+    width: 430px;
+    height: 680px;
+    background-color: antiquewhite;
+    color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-image:url(final.png);
+    background-size: cover;
+}
+.name{
+    color :rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    position: relative;
+    text-align: center;
+    text-shadow: 2px 2px  rgb(0, 0, 0) ;
+}
+.title1{
+    display: grid;
+    grid-template-columns: 5fr;
+    grid-template-rows: 5fr;
+    position: relative;
+    text-align: center;
+    font-size: 15px;
+    margin: solid none;
+    text-wrap: wrap;
+    text-shadow:4px 4px rgb(0, 0, 0);
+    padding: 10px;
+    color: rgb(255, 217, 0) ;
+    font-size: 27px;
+    
+    margin-top: 45px;
+    font-family: Afacad;
+    ;
+}
+.tips{
+font-size: 20px;
+color: rgb(255, 255, 255);
+text-align: center;
+top: 300px;
+border:1px;
+
+margin-top: 20px;
+text-shadow: 4px 4px rgb(0, 0, 0);
+
+}
+.image{
+position: relative;
+top: -1px;
+left:293px;
+
+
+margin-top: 72px;
+
+
+}
