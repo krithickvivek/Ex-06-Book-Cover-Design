@@ -1,4 +1,4 @@
-# Ex-06-Book-Cover-Design
+# Ex-08-Book-Cover-Design
 # AIM:
 Design a book cover page using HTML and CSS.
 # PROCEDUCE:
